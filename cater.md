@@ -1,30 +1,25 @@
-# Caterer
+# Treasurer Dashboard
 
-# Food & Hospitality Management
+# Financial Overview
+ Total Budget
+ Total Income
+ Total Expenses
+ Available Balance
 
-Manage food arrangements, menus, quantities, and catering requirements for every college event.
+# Event Finances
+ Event Name
+ Allocated Budget
+ Expenses
+ Income
+ Remaining Amount
 
-# Catering Services
+# Transactions
+ Add Income
+ Add Expense
+ Payment Status
+ Transaction History
 
-Event Meal Planning
-Menu Selection
-Snacks & Refreshments
-Lunch & Dinner
-Beverages
-Special Dietary Requirements
-
-# Upcoming Events
-
-Freshers' Party 2026
-Tech Fest 2026
-Cultural Night
-Annual Sports Meet
-Hackathon 2026
-
-# Catering Details
-
-Event: Tech Fest 2026
-Expected Guests: 250
-Meal Type: Lunch + Refreshments
-Menu: Veg Biryani, Paneer Curry, Naan, Salad, Dessert
-Catering Status: Confirmed
+# Reports
+ Event-wise Report
+ Monthly Expense Report
+ Download Financial Report
