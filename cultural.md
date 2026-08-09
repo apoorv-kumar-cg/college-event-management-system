@@ -34,4 +34,4 @@ Status: Registration Open
 
 # Participation Request
 
-Students can register for cultural programs by selecting their preferred activity, providing participant details, and submitting their performance or competition entry.
+Students can register for cultural programs by selecting their preferred activity, providing participant details, and submitting their performance or competition entry
