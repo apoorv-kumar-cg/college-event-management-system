@@ -1,6 +1,6 @@
-# Caterer
+# Caterer 
 
-## Food & Hospitality Management
+## Food & Hospitality Management 
 
 Manage food arrangements, menus, quantities, and catering requirements for every college event.
 
