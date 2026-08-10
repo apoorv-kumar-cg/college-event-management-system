@@ -1,4 +1,4 @@
-#Closing Anchoring 
+# Closing Anchoring 
 “And with that, we have come to the end of this wonderful event. ✨
 A big thank you to all our respected teachers, organizers, participants, volunteers, and of course, our amazing students for making this event a memorable one.
 Your energy, enthusiasm, and participation truly made this event special. 👏
