@@ -47,7 +47,7 @@ The main objective of this project is to develop a simple and user-friendly plat
 * Admin dashboard
 * Automated reports
 
-## 👨‍💻 Project
+## Project
 
 **College Event Management System**
 Developed as a college project to demonstrate web development, teamwork, Git, and GitHub collaboration.
